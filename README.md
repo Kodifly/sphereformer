@@ -122,7 +122,10 @@ CUDA_VISIBLE_DEVICES="" python convert.py --load_dir [YOUR_DATA_ROOT] --save_dir
 ```
 python train.py --config config/nuscenes/nuscenes_unet32_spherical_transformer.yaml
 ```
+```
+python testing.py --config config/semantic_kitti/semantic_kitti_unet32_spherical_transformer.yaml
 
+```
 ### SemanticKITTI
 ```
 python train.py --config config/semantic_kitti/semantic_kitti_unet32_spherical_transformer.yaml
