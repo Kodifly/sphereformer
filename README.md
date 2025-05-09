@@ -3,7 +3,7 @@
 
 # Spherical Transformer for LiDAR-based 3D Recognition (CVPR 2023)
 
-This is the official PyTorch implementation of **SphereFormer** (CVPR 2023).
+This is the fork of official PyTorch implementation of **SphereFormer** (CVPR 2023).
 
 **Spherical Transformer for LiDAR-based 3D Recognition** [\[Paper\]](https://arxiv.org/pdf/2303.12766.pdf)
 
